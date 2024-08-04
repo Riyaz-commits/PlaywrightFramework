@@ -1,4 +1,12 @@
 [ {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:8081/job/PlayWrightFramework/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 6,
+    "retry" : 3
+  }
+}, {
   "buildOrder" : 5,
   "reportUrl" : "http://localhost:8081/job/PlayWrightFramework/5/allure",
   "reportName" : "AllureReport",

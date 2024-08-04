@@ -2,14 +2,14 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "name" : "behaviors",
   "children" : [ {
-    "name" : "Second case of Play wright test",
-    "uid" : "74aae8ad6bf5ac5d",
+    "name" : "@UI FirstTestCase of Play wright test",
+    "uid" : "c92f8caab9b543c3",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1722701756819,
-      "stop" : 1722701758304,
-      "duration" : 1485
+      "start" : 1722751590437,
+      "stop" : 1722751592332,
+      "duration" : 1895
     },
     "flaky" : false,
     "newFailed" : false,
@@ -17,193 +17,91 @@
     "newBroken" : false,
     "retriesCount" : 0,
     "retriesStatusChange" : false,
-    "parameters" : [ ]
+    "parameters" : [ "safari" ]
   }, {
-    "name" : "@UI FirstTestCase of Play wright test",
-    "uid" : "cf830eaf53e7ae00",
+    "name" : "@UI Second case of Play wright test",
+    "uid" : "4c5d795328d48b41",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1722702869529,
-      "stop" : 1722702871073,
-      "duration" : 1544
+      "start" : 1722751593213,
+      "stop" : 1722751594156,
+      "duration" : 943
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
     "retriesCount" : 1,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "@UI Second case of Play wright test",
-    "uid" : "af81e964733d757b",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1722702869614,
-      "stop" : 1722702876328,
-      "duration" : 6714
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Calendar validations",
-    "uid" : "11509ef4d5644043",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1722702869860,
-      "stop" : 1722702872888,
-      "duration" : 3028
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "@API Excel data fetching automation case",
-    "uid" : "64bada8697d93285",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1722702870842,
-      "stop" : 1722702874517,
-      "duration" : 3675
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "@API  Excel data fetching automation case",
-    "uid" : "60ced95454917790",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1722703337963,
-      "stop" : 1722703341268,
-      "duration" : 3305
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "@UI FirstTestCase of Play wright test",
-    "uid" : "3e28e23b1e232e2d",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1722747990880,
-      "stop" : 1722747993403,
-      "duration" : 2523
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 5,
-    "retriesStatusChange" : false,
-    "parameters" : [ "safari" ]
-  }, {
-    "name" : "@UI Second case of Play wright test",
-    "uid" : "56c0f0555d7d23ed",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1722747993583,
-      "stop" : 1722747995335,
-      "duration" : 1752
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 5,
-    "retriesStatusChange" : false,
+    "retriesStatusChange" : true,
     "parameters" : [ "safari" ]
   }, {
     "name" : "@UI FirstTestCase of Play wright test",
-    "uid" : "ec167644bac6af4c",
+    "uid" : "e7b1b3356e42b265",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1722747996405,
-      "stop" : 1722747998903,
-      "duration" : 2498
+      "start" : 1722751594910,
+      "stop" : 1722751597834,
+      "duration" : 2924
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 5,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ "firefox" ]
   }, {
     "name" : "@UI Second case of Play wright test",
-    "uid" : "27bf425f8756c39f",
+    "uid" : "6b8f7b6fe27baa0a",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1722747999829,
-      "stop" : 1722748000541,
-      "duration" : 712
+      "start" : 1722751599214,
+      "stop" : 1722751601194,
+      "duration" : 1980
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 5,
-    "retriesStatusChange" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : true,
     "parameters" : [ "firefox" ]
   }, {
     "name" : "@UI FirstTestCase of Play wright test",
-    "uid" : "492936916e978f77",
+    "uid" : "8dc9a5f37d66468e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1722748002158,
-      "stop" : 1722748003746,
-      "duration" : 1588
+      "start" : 1722751602440,
+      "stop" : 1722751603881,
+      "duration" : 1441
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 5,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ "chrome" ]
   }, {
     "name" : "@UI Second case of Play wright test",
-    "uid" : "cfd58961cda95739",
+    "uid" : "b0d3baddf63311b8",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1722748004228,
-      "stop" : 1722748006768,
-      "duration" : 2540
+      "start" : 1722751604988,
+      "stop" : 1722751607013,
+      "duration" : 2025
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 5,
-    "retriesStatusChange" : false,
+    "retriesCount" : 1,
+    "retriesStatusChange" : true,
     "parameters" : [ "chrome" ]
   } ]
 }
