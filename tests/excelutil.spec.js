@@ -57,6 +57,6 @@ test.skip('@API  Excel data fetching automation case', async ({page})=>
     await downloadpromise;
 
   // await  writeExcelTest("dragon fruit",499,{rowChange:0,colChange:2},"C:/Users/RIYAZ BASHA SHAIK/Downloads/download");
-//await page.pause();
+   //await page.pause();
 
 })
