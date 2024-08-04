@@ -1,47 +1,5 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
-  "children" : [ {
-    "name" : "Product defects",
-    "children" : [ {
-      "name" : "Error: File not found: C:/Users/RIYAZ BASHA SHAIK/Downloads/download",
-      "children" : [ {
-        "name" : "@API Excel data fetching automation case",
-        "uid" : "64bada8697d93285",
-        "parentUid" : "6124ebbc69f7ba2747f85e3736892f42",
-        "status" : "failed",
-        "time" : {
-          "start" : 1722702870842,
-          "stop" : 1722702874517,
-          "duration" : 3675
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "@API  Excel data fetching automation case",
-        "uid" : "60ced95454917790",
-        "parentUid" : "6124ebbc69f7ba2747f85e3736892f42",
-        "status" : "failed",
-        "time" : {
-          "start" : 1722703337963,
-          "stop" : 1722703341268,
-          "duration" : 3305
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 0,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "6124ebbc69f7ba2747f85e3736892f42"
-    } ],
-    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
-  } ]
+  "children" : [ ]
 }

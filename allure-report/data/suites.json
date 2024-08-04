@@ -2,160 +2,42 @@
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "name" : "suites",
   "children" : [ {
-    "name" : "UIBasics.spec.js",
-    "children" : [ {
-      "name" : "Second case of Play wright test",
-      "uid" : "74aae8ad6bf5ac5d",
-      "parentUid" : "1873fc2239616a1e66fcef4013a809c6",
-      "status" : "passed",
-      "time" : {
-        "start" : 1722701756819,
-        "stop" : 1722701758304,
-        "duration" : 1485
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "@UI FirstTestCase of Play wright test",
-      "uid" : "cf830eaf53e7ae00",
-      "parentUid" : "1873fc2239616a1e66fcef4013a809c6",
-      "status" : "passed",
-      "time" : {
-        "start" : 1722702869529,
-        "stop" : 1722702871073,
-        "duration" : 1544
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ ]
-    }, {
-      "name" : "@UI Second case of Play wright test",
-      "uid" : "af81e964733d757b",
-      "parentUid" : "1873fc2239616a1e66fcef4013a809c6",
-      "status" : "passed",
-      "time" : {
-        "start" : 1722702869614,
-        "stop" : 1722702876328,
-        "duration" : 6714
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ ]
-    } ],
-    "uid" : "1873fc2239616a1e66fcef4013a809c6"
-  }, {
-    "name" : "WebApi.spec.js",
-    "children" : [ {
-      "name" : "Calendar validations",
-      "uid" : "11509ef4d5644043",
-      "parentUid" : "94921911fd6936fc3a0572f070f076ed",
-      "status" : "passed",
-      "time" : {
-        "start" : 1722702869860,
-        "stop" : 1722702872888,
-        "duration" : 3028
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ ]
-    } ],
-    "uid" : "94921911fd6936fc3a0572f070f076ed"
-  }, {
-    "name" : "utils\\excelutil.spec.js",
-    "children" : [ {
-      "name" : "@API Excel data fetching automation case",
-      "uid" : "64bada8697d93285",
-      "parentUid" : "2875c0d05b83e29e2f7fd6907fd5ba39",
-      "status" : "failed",
-      "time" : {
-        "start" : 1722702870842,
-        "stop" : 1722702874517,
-        "duration" : 3675
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ ]
-    } ],
-    "uid" : "2875c0d05b83e29e2f7fd6907fd5ba39"
-  }, {
-    "name" : "excelutil.spec.js",
-    "children" : [ {
-      "name" : "@API  Excel data fetching automation case",
-      "uid" : "60ced95454917790",
-      "parentUid" : "0fec25414925785e81e94f3454f3c076",
-      "status" : "failed",
-      "time" : {
-        "start" : 1722703337963,
-        "stop" : 1722703341268,
-        "duration" : 3305
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ ]
-    } ],
-    "uid" : "0fec25414925785e81e94f3454f3c076"
-  }, {
     "name" : "safari",
     "children" : [ {
       "name" : "UIBasics.spec.js",
       "children" : [ {
         "name" : "@UI FirstTestCase of Play wright test",
-        "uid" : "3e28e23b1e232e2d",
+        "uid" : "c92f8caab9b543c3",
         "parentUid" : "84252e019ef94cda3affe9bb511e52ac",
         "status" : "passed",
         "time" : {
-          "start" : 1722747990880,
-          "stop" : 1722747993403,
-          "duration" : 2523
+          "start" : 1722751590437,
+          "stop" : 1722751592332,
+          "duration" : 1895
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 5,
+        "retriesCount" : 0,
         "retriesStatusChange" : false,
         "parameters" : [ "safari" ]
       }, {
         "name" : "@UI Second case of Play wright test",
-        "uid" : "56c0f0555d7d23ed",
+        "uid" : "4c5d795328d48b41",
         "parentUid" : "84252e019ef94cda3affe9bb511e52ac",
         "status" : "passed",
         "time" : {
-          "start" : 1722747993583,
-          "stop" : 1722747995335,
-          "duration" : 1752
+          "start" : 1722751593213,
+          "stop" : 1722751594156,
+          "duration" : 943
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 5,
-        "retriesStatusChange" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
         "parameters" : [ "safari" ]
       } ],
       "uid" : "84252e019ef94cda3affe9bb511e52ac"
@@ -167,37 +49,37 @@
       "name" : "UIBasics.spec.js",
       "children" : [ {
         "name" : "@UI FirstTestCase of Play wright test",
-        "uid" : "ec167644bac6af4c",
+        "uid" : "e7b1b3356e42b265",
         "parentUid" : "31a1a727aa8f5d0b3e29f392d57ed69d",
         "status" : "passed",
         "time" : {
-          "start" : 1722747996405,
-          "stop" : 1722747998903,
-          "duration" : 2498
+          "start" : 1722751594910,
+          "stop" : 1722751597834,
+          "duration" : 2924
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 5,
+        "retriesCount" : 0,
         "retriesStatusChange" : false,
         "parameters" : [ "firefox" ]
       }, {
         "name" : "@UI Second case of Play wright test",
-        "uid" : "27bf425f8756c39f",
+        "uid" : "6b8f7b6fe27baa0a",
         "parentUid" : "31a1a727aa8f5d0b3e29f392d57ed69d",
         "status" : "passed",
         "time" : {
-          "start" : 1722747999829,
-          "stop" : 1722748000541,
-          "duration" : 712
+          "start" : 1722751599214,
+          "stop" : 1722751601194,
+          "duration" : 1980
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 5,
-        "retriesStatusChange" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
         "parameters" : [ "firefox" ]
       } ],
       "uid" : "31a1a727aa8f5d0b3e29f392d57ed69d"
@@ -209,37 +91,37 @@
       "name" : "UIBasics.spec.js",
       "children" : [ {
         "name" : "@UI FirstTestCase of Play wright test",
-        "uid" : "492936916e978f77",
+        "uid" : "8dc9a5f37d66468e",
         "parentUid" : "74b85427df75ddde30cd955a2e0ce28e",
         "status" : "passed",
         "time" : {
-          "start" : 1722748002158,
-          "stop" : 1722748003746,
-          "duration" : 1588
+          "start" : 1722751602440,
+          "stop" : 1722751603881,
+          "duration" : 1441
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 5,
+        "retriesCount" : 0,
         "retriesStatusChange" : false,
         "parameters" : [ "chrome" ]
       }, {
         "name" : "@UI Second case of Play wright test",
-        "uid" : "cfd58961cda95739",
+        "uid" : "b0d3baddf63311b8",
         "parentUid" : "74b85427df75ddde30cd955a2e0ce28e",
         "status" : "passed",
         "time" : {
-          "start" : 1722748004228,
-          "stop" : 1722748006768,
-          "duration" : 2540
+          "start" : 1722751604988,
+          "stop" : 1722751607013,
+          "duration" : 2025
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 5,
-        "retriesStatusChange" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : true,
         "parameters" : [ "chrome" ]
       } ],
       "uid" : "74b85427df75ddde30cd955a2e0ce28e"
