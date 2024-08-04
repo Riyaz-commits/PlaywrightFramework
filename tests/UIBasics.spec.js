@@ -21,8 +21,6 @@ await loginPage.loginApp("standard_user","secret_sauce1")
 
 console.log("Hey riyaz the  error message is "+ await page.locator("[data-test='error']").textContent());
 
-
-
 }
 );
 
@@ -35,7 +33,6 @@ test('@UI Second case of Play wright test', async function({browser}){
      await page.goto("https://rahulshettyacademy.com/loginpagePractise/")
     
      await expect(page).toHaveTitle("LoginPage Practise | Rahul Shetty Academy");
-
 
     }
     );
