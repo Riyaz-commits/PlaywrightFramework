@@ -1,0 +1,792 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-BQS7GFT",
+    "children" : [ {
+      "name" : "DESKTOP-BQS7GFT-14588-playwright-worker-0",
+      "children" : [ {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "8f711cdce20d32c4",
+        "parentUid" : "ffcd440bb77f41646144f15fc780f6db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722743694682,
+          "stop" : 1722743696312,
+          "duration" : 1630
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "safari" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "139746a64513c7ed",
+        "parentUid" : "ffcd440bb77f41646144f15fc780f6db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722743705520,
+          "stop" : 1722743706812,
+          "duration" : 1292
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "a5345fab901b7c56",
+        "parentUid" : "ffcd440bb77f41646144f15fc780f6db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722743692212,
+          "stop" : 1722743694214,
+          "duration" : 2002
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "safari" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "6980f977b8420b9e",
+        "parentUid" : "ffcd440bb77f41646144f15fc780f6db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722743700890,
+          "stop" : 1722743701505,
+          "duration" : 615
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "d3256639395c21cb",
+        "parentUid" : "ffcd440bb77f41646144f15fc780f6db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722743703192,
+          "stop" : 1722743704747,
+          "duration" : 1555
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "3703a81f918308a1",
+        "parentUid" : "ffcd440bb77f41646144f15fc780f6db",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722743697318,
+          "stop" : 1722743699820,
+          "duration" : 2502
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "firefox" ]
+      } ],
+      "uid" : "ffcd440bb77f41646144f15fc780f6db"
+    }, {
+      "name" : "DESKTOP-BQS7GFT-21976-playwright-worker-0",
+      "children" : [ {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "ec3706fb97b916e6",
+        "parentUid" : "6aff336240fc0d858226f2719d1d9c78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722741286479,
+          "stop" : 1722741288152,
+          "duration" : 1673
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "c8e60837088d0067",
+        "parentUid" : "6aff336240fc0d858226f2719d1d9c78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722741284129,
+          "stop" : 1722741284803,
+          "duration" : 674
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "211ca24b3ab1bf5",
+        "parentUid" : "6aff336240fc0d858226f2719d1d9c78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722741274296,
+          "stop" : 1722741276900,
+          "duration" : 2604
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "safari" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "df1d3b4de74b46d6",
+        "parentUid" : "6aff336240fc0d858226f2719d1d9c78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722741277505,
+          "stop" : 1722741279312,
+          "duration" : 1807
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "safari" ]
+      }, {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "e631f19670d6b489",
+        "parentUid" : "6aff336240fc0d858226f2719d1d9c78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722741280228,
+          "stop" : 1722741282796,
+          "duration" : 2568
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "3abf680cd39a8730",
+        "parentUid" : "6aff336240fc0d858226f2719d1d9c78",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722741288698,
+          "stop" : 1722741290129,
+          "duration" : 1431
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "6aff336240fc0d858226f2719d1d9c78"
+    }, {
+      "name" : "DESKTOP-BQS7GFT-11828-playwright-worker-0",
+      "children" : [ {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "cfd58961cda95739",
+        "parentUid" : "7cf0a564b5c128a476edd64b9746072f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722748004228,
+          "stop" : 1722748006768,
+          "duration" : 2540
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "56c0f0555d7d23ed",
+        "parentUid" : "7cf0a564b5c128a476edd64b9746072f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722747993583,
+          "stop" : 1722747995335,
+          "duration" : 1752
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ "safari" ]
+      }, {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "3e28e23b1e232e2d",
+        "parentUid" : "7cf0a564b5c128a476edd64b9746072f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722747990880,
+          "stop" : 1722747993403,
+          "duration" : 2523
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ "safari" ]
+      }, {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "492936916e978f77",
+        "parentUid" : "7cf0a564b5c128a476edd64b9746072f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722748002158,
+          "stop" : 1722748003746,
+          "duration" : 1588
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "27bf425f8756c39f",
+        "parentUid" : "7cf0a564b5c128a476edd64b9746072f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722747999829,
+          "stop" : 1722748000541,
+          "duration" : 712
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "ec167644bac6af4c",
+        "parentUid" : "7cf0a564b5c128a476edd64b9746072f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722747996405,
+          "stop" : 1722747998903,
+          "duration" : 2498
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ "firefox" ]
+      } ],
+      "uid" : "7cf0a564b5c128a476edd64b9746072f"
+    }, {
+      "name" : "DESKTOP-BQS7GFT-18172-playwright-worker-0",
+      "children" : [ {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "350ab833a2d9690",
+        "parentUid" : "c9b43bcd486d64fe554a1bf796a8d99b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722735728310,
+          "stop" : 1722735730419,
+          "duration" : 2109
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "182457e733dbf0d7",
+        "parentUid" : "c9b43bcd486d64fe554a1bf796a8d99b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722735734954,
+          "stop" : 1722735736339,
+          "duration" : 1385
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "70db1a8384e6e09",
+        "parentUid" : "c9b43bcd486d64fe554a1bf796a8d99b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722735723839,
+          "stop" : 1722735725710,
+          "duration" : 1871
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "safari" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "85211bafc26ca7b7",
+        "parentUid" : "c9b43bcd486d64fe554a1bf796a8d99b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722735736954,
+          "stop" : 1722735738260,
+          "duration" : 1306
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "c86f88f50191b8c6",
+        "parentUid" : "c9b43bcd486d64fe554a1bf796a8d99b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722735732247,
+          "stop" : 1722735733245,
+          "duration" : 998
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "21231caab9404927",
+        "parentUid" : "c9b43bcd486d64fe554a1bf796a8d99b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722735725867,
+          "stop" : 1722735727458,
+          "duration" : 1591
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "safari" ]
+      } ],
+      "uid" : "c9b43bcd486d64fe554a1bf796a8d99b"
+    }, {
+      "name" : "DESKTOP-BQS7GFT-18236-playwright-worker-1",
+      "children" : [ {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "af81e964733d757b",
+        "parentUid" : "56aca0ad45fc1642d3f979edbbc90243",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722702869614,
+          "stop" : 1722702876328,
+          "duration" : 6714
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "56aca0ad45fc1642d3f979edbbc90243"
+    }, {
+      "name" : "DESKTOP-BQS7GFT-18236-playwright-worker-0",
+      "children" : [ {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "cf830eaf53e7ae00",
+        "parentUid" : "b0f25453fa748e2d4228280b70f45b01",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722702869529,
+          "stop" : 1722702871073,
+          "duration" : 1544
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b0f25453fa748e2d4228280b70f45b01"
+    }, {
+      "name" : "DESKTOP-BQS7GFT-15688-playwright-worker-0",
+      "children" : [ {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "7aa9022a832719f5",
+        "parentUid" : "80d8438d641c18ba26e2d3c24649b886",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722747848063,
+          "stop" : 1722747849558,
+          "duration" : 1495
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "b488efc745572d90",
+        "parentUid" : "80d8438d641c18ba26e2d3c24649b886",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722747839216,
+          "stop" : 1722747841794,
+          "duration" : 2578
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "e72b1ce81f464b08",
+        "parentUid" : "80d8438d641c18ba26e2d3c24649b886",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722747845633,
+          "stop" : 1722747847311,
+          "duration" : 1678
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "8616bfa444659e7b",
+        "parentUid" : "80d8438d641c18ba26e2d3c24649b886",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722747836410,
+          "stop" : 1722747838263,
+          "duration" : 1853
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "safari" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "f4e46d327ee99975",
+        "parentUid" : "80d8438d641c18ba26e2d3c24649b886",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722747843165,
+          "stop" : 1722747843964,
+          "duration" : 799
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "f0cfe983bcbd2a1e",
+        "parentUid" : "80d8438d641c18ba26e2d3c24649b886",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722747833914,
+          "stop" : 1722747836236,
+          "duration" : 2322
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "safari" ]
+      } ],
+      "uid" : "80d8438d641c18ba26e2d3c24649b886"
+    }, {
+      "name" : "DESKTOP-BQS7GFT-19484-playwright-worker-0",
+      "children" : [ {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "8c33f9874a20525d",
+        "parentUid" : "3bf0954cf113d30bde429ea776c8504f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722740389068,
+          "stop" : 1722740391414,
+          "duration" : 2346
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "safari" ]
+      }, {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "b70fea1cdb736559",
+        "parentUid" : "3bf0954cf113d30bde429ea776c8504f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722740402382,
+          "stop" : 1722740404449,
+          "duration" : 2067
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "e7002ca16f554af2",
+        "parentUid" : "3bf0954cf113d30bde429ea776c8504f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722740395054,
+          "stop" : 1722740397794,
+          "duration" : 2740
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "8d3bc0aa991955c2",
+        "parentUid" : "3bf0954cf113d30bde429ea776c8504f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722740392457,
+          "stop" : 1722740394064,
+          "duration" : 1607
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "safari" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "cc01bda46ab8a8ca",
+        "parentUid" : "3bf0954cf113d30bde429ea776c8504f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722740405362,
+          "stop" : 1722740406702,
+          "duration" : 1340
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "e42f1730dbba975f",
+        "parentUid" : "3bf0954cf113d30bde429ea776c8504f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722740399702,
+          "stop" : 1722740400476,
+          "duration" : 774
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "firefox" ]
+      } ],
+      "uid" : "3bf0954cf113d30bde429ea776c8504f"
+    }, {
+      "name" : "DESKTOP-BQS7GFT-23080-playwright-worker-0",
+      "children" : [ {
+        "name" : "@API  Excel data fetching automation case",
+        "uid" : "60ced95454917790",
+        "parentUid" : "b60148bfed6b1aa7ac31ae1da6421771",
+        "status" : "failed",
+        "time" : {
+          "start" : 1722703337963,
+          "stop" : 1722703341268,
+          "duration" : 3305
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b60148bfed6b1aa7ac31ae1da6421771"
+    }, {
+      "name" : "DESKTOP-BQS7GFT-2044-playwright-worker-1",
+      "children" : [ {
+        "name" : "Second case of Play wright test",
+        "uid" : "74aae8ad6bf5ac5d",
+        "parentUid" : "8a2c142a92af209eb215eeb449add39b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722701756819,
+          "stop" : 1722701758304,
+          "duration" : 1485
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8a2c142a92af209eb215eeb449add39b"
+    }, {
+      "name" : "DESKTOP-BQS7GFT-2044-playwright-worker-0",
+      "children" : [ {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "cca62449de575e79",
+        "parentUid" : "ceea02e037fd5eab6edd3bab8e2efe72",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722701756756,
+          "stop" : 1722701758742,
+          "duration" : 1986
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ceea02e037fd5eab6edd3bab8e2efe72"
+    }, {
+      "name" : "DESKTOP-BQS7GFT-18236-playwright-worker-2",
+      "children" : [ {
+        "name" : "@API Excel data fetching automation case",
+        "uid" : "64bada8697d93285",
+        "parentUid" : "f7d6baaed43dbca0120d29100c3b179b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1722702870842,
+          "stop" : 1722702874517,
+          "duration" : 3675
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f7d6baaed43dbca0120d29100c3b179b"
+    }, {
+      "name" : "DESKTOP-BQS7GFT-18236-playwright-worker-3",
+      "children" : [ {
+        "name" : "Calendar validations",
+        "uid" : "11509ef4d5644043",
+        "parentUid" : "571ac572b37920c16c3408e2f64ca72b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722702869860,
+          "stop" : 1722702872888,
+          "duration" : 3028
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "571ac572b37920c16c3408e2f64ca72b"
+    } ],
+    "uid" : "23dea14440249d304893f1b8150db339"
+  } ]
+}

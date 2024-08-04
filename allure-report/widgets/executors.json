@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://localhost:8081/",
+  "buildOrder" : 5,
+  "buildName" : "PLAYWRIGHT FRAMEWORK #5",
+  "buildUrl" : "http://localhost:8081/job/PlayWrightFramework/5/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://localhost:8081/job/PlayWrightFramework/5/allure"
+} ]

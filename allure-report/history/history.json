@@ -1,0 +1,244 @@
+{
+  "68a0c48174c66817b12f62452c7fcbc7:d41d8cd98f00b204e9800998ecf8427e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "60ced95454917790",
+      "reportUrl" : "http://localhost:8081/job/PlayWrightFramework/5/allure/#testresult/60ced95454917790",
+      "status" : "failed",
+      "statusDetails" : "Error: File not found: C:/Users/RIYAZ BASHA SHAIK/Downloads/download",
+      "time" : {
+        "start" : 1722703337963,
+        "stop" : 1722703341268,
+        "duration" : 3305
+      }
+    } ]
+  },
+  "67366ad9586ada6374847241aa8e371a:94dadec355fb24357203fcbce2c308f6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "492936916e978f77",
+      "reportUrl" : "http://localhost:8081/job/PlayWrightFramework/5/allure/#testresult/492936916e978f77",
+      "status" : "passed",
+      "time" : {
+        "start" : 1722748002158,
+        "stop" : 1722748003746,
+        "duration" : 1588
+      }
+    } ]
+  },
+  "6c9a4ad64e78f9afc19afad88dcdcdd1:b444eb0fbe6390c71e68b51dd25701fc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27bf425f8756c39f",
+      "reportUrl" : "http://localhost:8081/job/PlayWrightFramework/5/allure/#testresult/27bf425f8756c39f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1722747999829,
+        "stop" : 1722748000541,
+        "duration" : 712
+      }
+    } ]
+  },
+  "4bee9cf76f52c90e807b03d0cde2dc3c:d41d8cd98f00b204e9800998ecf8427e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "11509ef4d5644043",
+      "reportUrl" : "http://localhost:8081/job/PlayWrightFramework/5/allure/#testresult/11509ef4d5644043",
+      "status" : "passed",
+      "time" : {
+        "start" : 1722702869860,
+        "stop" : 1722702872888,
+        "duration" : 3028
+      }
+    } ]
+  },
+  "67366ad9586ada6374847241aa8e371a:b444eb0fbe6390c71e68b51dd25701fc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ec167644bac6af4c",
+      "reportUrl" : "http://localhost:8081/job/PlayWrightFramework/5/allure/#testresult/ec167644bac6af4c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1722747996405,
+        "stop" : 1722747998903,
+        "duration" : 2498
+      }
+    } ]
+  },
+  "2cca1fb13724a08367aef8440f4dbfef:d41d8cd98f00b204e9800998ecf8427e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "64bada8697d93285",
+      "reportUrl" : "http://localhost:8081/job/PlayWrightFramework/5/allure/#testresult/64bada8697d93285",
+      "status" : "failed",
+      "statusDetails" : "Error: File not found: C:/Users/RIYAZ BASHA SHAIK/Downloads/download",
+      "time" : {
+        "start" : 1722702870842,
+        "stop" : 1722702874517,
+        "duration" : 3675
+      }
+    } ]
+  },
+  "67366ad9586ada6374847241aa8e371a:969c352bee93c662f3c6f43279ecdeef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3e28e23b1e232e2d",
+      "reportUrl" : "http://localhost:8081/job/PlayWrightFramework/5/allure/#testresult/3e28e23b1e232e2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1722747990880,
+        "stop" : 1722747993403,
+        "duration" : 2523
+      }
+    } ]
+  },
+  "6c9a4ad64e78f9afc19afad88dcdcdd1:969c352bee93c662f3c6f43279ecdeef" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56c0f0555d7d23ed",
+      "reportUrl" : "http://localhost:8081/job/PlayWrightFramework/5/allure/#testresult/56c0f0555d7d23ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1722747993583,
+        "stop" : 1722747995335,
+        "duration" : 1752
+      }
+    } ]
+  },
+  "5ae7111b5c1189c16eb4ad6a6e070069:d41d8cd98f00b204e9800998ecf8427e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "74aae8ad6bf5ac5d",
+      "reportUrl" : "http://localhost:8081/job/PlayWrightFramework/5/allure/#testresult/74aae8ad6bf5ac5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1722701756819,
+        "stop" : 1722701758304,
+        "duration" : 1485
+      }
+    } ]
+  },
+  "67366ad9586ada6374847241aa8e371a:d41d8cd98f00b204e9800998ecf8427e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cf830eaf53e7ae00",
+      "reportUrl" : "http://localhost:8081/job/PlayWrightFramework/5/allure/#testresult/cf830eaf53e7ae00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1722702869529,
+        "stop" : 1722702871073,
+        "duration" : 1544
+      }
+    } ]
+  },
+  "6c9a4ad64e78f9afc19afad88dcdcdd1:d41d8cd98f00b204e9800998ecf8427e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "af81e964733d757b",
+      "reportUrl" : "http://localhost:8081/job/PlayWrightFramework/5/allure/#testresult/af81e964733d757b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1722702869614,
+        "stop" : 1722702876328,
+        "duration" : 6714
+      }
+    } ]
+  },
+  "6c9a4ad64e78f9afc19afad88dcdcdd1:94dadec355fb24357203fcbce2c308f6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cfd58961cda95739",
+      "reportUrl" : "http://localhost:8081/job/PlayWrightFramework/5/allure/#testresult/cfd58961cda95739",
+      "status" : "passed",
+      "time" : {
+        "start" : 1722748004228,
+        "stop" : 1722748006768,
+        "duration" : 2540
+      }
+    } ]
+  }
+}

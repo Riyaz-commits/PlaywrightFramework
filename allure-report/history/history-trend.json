@@ -1,0 +1,13 @@
+[ {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:8081/job/PlayWrightFramework/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 2,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 10,
+    "unknown" : 0,
+    "total" : 12
+  }
+} ]

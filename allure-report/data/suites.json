@@ -1,0 +1,249 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "UIBasics.spec.js",
+    "children" : [ {
+      "name" : "Second case of Play wright test",
+      "uid" : "74aae8ad6bf5ac5d",
+      "parentUid" : "1873fc2239616a1e66fcef4013a809c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1722701756819,
+        "stop" : 1722701758304,
+        "duration" : 1485
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "@UI FirstTestCase of Play wright test",
+      "uid" : "cf830eaf53e7ae00",
+      "parentUid" : "1873fc2239616a1e66fcef4013a809c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1722702869529,
+        "stop" : 1722702871073,
+        "duration" : 1544
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "@UI Second case of Play wright test",
+      "uid" : "af81e964733d757b",
+      "parentUid" : "1873fc2239616a1e66fcef4013a809c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1722702869614,
+        "stop" : 1722702876328,
+        "duration" : 6714
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1873fc2239616a1e66fcef4013a809c6"
+  }, {
+    "name" : "WebApi.spec.js",
+    "children" : [ {
+      "name" : "Calendar validations",
+      "uid" : "11509ef4d5644043",
+      "parentUid" : "94921911fd6936fc3a0572f070f076ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1722702869860,
+        "stop" : 1722702872888,
+        "duration" : 3028
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "94921911fd6936fc3a0572f070f076ed"
+  }, {
+    "name" : "utils\\excelutil.spec.js",
+    "children" : [ {
+      "name" : "@API Excel data fetching automation case",
+      "uid" : "64bada8697d93285",
+      "parentUid" : "2875c0d05b83e29e2f7fd6907fd5ba39",
+      "status" : "failed",
+      "time" : {
+        "start" : 1722702870842,
+        "stop" : 1722702874517,
+        "duration" : 3675
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "2875c0d05b83e29e2f7fd6907fd5ba39"
+  }, {
+    "name" : "excelutil.spec.js",
+    "children" : [ {
+      "name" : "@API  Excel data fetching automation case",
+      "uid" : "60ced95454917790",
+      "parentUid" : "0fec25414925785e81e94f3454f3c076",
+      "status" : "failed",
+      "time" : {
+        "start" : 1722703337963,
+        "stop" : 1722703341268,
+        "duration" : 3305
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0fec25414925785e81e94f3454f3c076"
+  }, {
+    "name" : "safari",
+    "children" : [ {
+      "name" : "UIBasics.spec.js",
+      "children" : [ {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "3e28e23b1e232e2d",
+        "parentUid" : "84252e019ef94cda3affe9bb511e52ac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722747990880,
+          "stop" : 1722747993403,
+          "duration" : 2523
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ "safari" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "56c0f0555d7d23ed",
+        "parentUid" : "84252e019ef94cda3affe9bb511e52ac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722747993583,
+          "stop" : 1722747995335,
+          "duration" : 1752
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ "safari" ]
+      } ],
+      "uid" : "84252e019ef94cda3affe9bb511e52ac"
+    } ],
+    "uid" : "c487f812754fcf79a81b82a51ee68d12"
+  }, {
+    "name" : "firefox",
+    "children" : [ {
+      "name" : "UIBasics.spec.js",
+      "children" : [ {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "ec167644bac6af4c",
+        "parentUid" : "31a1a727aa8f5d0b3e29f392d57ed69d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722747996405,
+          "stop" : 1722747998903,
+          "duration" : 2498
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ "firefox" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "27bf425f8756c39f",
+        "parentUid" : "31a1a727aa8f5d0b3e29f392d57ed69d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722747999829,
+          "stop" : 1722748000541,
+          "duration" : 712
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ "firefox" ]
+      } ],
+      "uid" : "31a1a727aa8f5d0b3e29f392d57ed69d"
+    } ],
+    "uid" : "ed39c131db56604842b18253a0c76267"
+  }, {
+    "name" : "chrome",
+    "children" : [ {
+      "name" : "UIBasics.spec.js",
+      "children" : [ {
+        "name" : "@UI FirstTestCase of Play wright test",
+        "uid" : "492936916e978f77",
+        "parentUid" : "74b85427df75ddde30cd955a2e0ce28e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722748002158,
+          "stop" : 1722748003746,
+          "duration" : 1588
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "@UI Second case of Play wright test",
+        "uid" : "cfd58961cda95739",
+        "parentUid" : "74b85427df75ddde30cd955a2e0ce28e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1722748004228,
+          "stop" : 1722748006768,
+          "duration" : 2540
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 5,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "74b85427df75ddde30cd955a2e0ce28e"
+    } ],
+    "uid" : "6670429afb6336ebd74364ce08414023"
+  } ]
+}

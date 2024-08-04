@@ -1,0 +1,121 @@
+[ {
+  "uid" : "11509ef4d5644043",
+  "name" : "Calendar validations",
+  "time" : {
+    "start" : 1722702869860,
+    "stop" : 1722702872888,
+    "duration" : 3028
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e28e23b1e232e2d",
+  "name" : "@UI FirstTestCase of Play wright test",
+  "time" : {
+    "start" : 1722747990880,
+    "stop" : 1722747993403,
+    "duration" : 2523
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf830eaf53e7ae00",
+  "name" : "@UI FirstTestCase of Play wright test",
+  "time" : {
+    "start" : 1722702869529,
+    "stop" : 1722702871073,
+    "duration" : 1544
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27bf425f8756c39f",
+  "name" : "@UI Second case of Play wright test",
+  "time" : {
+    "start" : 1722747999829,
+    "stop" : 1722748000541,
+    "duration" : 712
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec167644bac6af4c",
+  "name" : "@UI FirstTestCase of Play wright test",
+  "time" : {
+    "start" : 1722747996405,
+    "stop" : 1722747998903,
+    "duration" : 2498
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64bada8697d93285",
+  "name" : "@API Excel data fetching automation case",
+  "time" : {
+    "start" : 1722702870842,
+    "stop" : 1722702874517,
+    "duration" : 3675
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "cfd58961cda95739",
+  "name" : "@UI Second case of Play wright test",
+  "time" : {
+    "start" : 1722748004228,
+    "stop" : 1722748006768,
+    "duration" : 2540
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af81e964733d757b",
+  "name" : "@UI Second case of Play wright test",
+  "time" : {
+    "start" : 1722702869614,
+    "stop" : 1722702876328,
+    "duration" : 6714
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "492936916e978f77",
+  "name" : "@UI FirstTestCase of Play wright test",
+  "time" : {
+    "start" : 1722748002158,
+    "stop" : 1722748003746,
+    "duration" : 1588
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74aae8ad6bf5ac5d",
+  "name" : "Second case of Play wright test",
+  "time" : {
+    "start" : 1722701756819,
+    "stop" : 1722701758304,
+    "duration" : 1485
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56c0f0555d7d23ed",
+  "name" : "@UI Second case of Play wright test",
+  "time" : {
+    "start" : 1722747993583,
+    "stop" : 1722747995335,
+    "duration" : 1752
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60ced95454917790",
+  "name" : "@API  Excel data fetching automation case",
+  "time" : {
+    "start" : 1722703337963,
+    "stop" : 1722703341268,
+    "duration" : 3305
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]
