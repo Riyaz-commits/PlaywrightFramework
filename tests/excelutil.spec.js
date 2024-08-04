@@ -53,10 +53,12 @@ test.skip('@API  Excel data fetching automation case', async ({page})=>
     await expect(page).toHaveTitle("RS Web Table Automation Page");
     const downloadpromise = page.waitForEvent('download');
     await page.getByRole('button',{name: 'Download'}).click();
- //   await page.locator("#downloadButton").click();
+ // above one is enough  await page.locator("#downloadButton").click();
     await downloadpromise;
+
 
   // await  writeExcelTest("dragon fruit",499,{rowChange:0,colChange:2},"C:/Users/RIYAZ BASHA SHAIK/Downloads/download");
    //await page.pause();
+   await browser.close();
 
 })
